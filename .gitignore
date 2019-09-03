@@ -1,5 +1,4 @@
 /_build
-/bin
 /graphql_ppx*.exe
 /node_modules
 /tests_bucklescript/lib
